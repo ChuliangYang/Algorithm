@@ -2,7 +2,6 @@ package com.me.cl.java;
 
 import java.util.Arrays;
 
-//Shell sort
 public class ShellSort {
     static int[] intArray= {20,35,-15,7,55,1,-22,-21,54,0,0,1000,-1,9000,1,1,1};
 
