@@ -1,4 +1,4 @@
-package com.me.cl.java;
+package com.me.cl.java.sort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
