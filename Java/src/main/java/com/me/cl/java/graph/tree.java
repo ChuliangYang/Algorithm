@@ -160,14 +160,6 @@ public class tree {
             }
         }
 
-        public List<Node> getChildren() {
-            return children;
-        }
-
-        public void setChildren(List<Node> children) {
-            this.children = children;
-        }
-
         public void setVisited(boolean visited) {
             this.visited = visited;
         }
