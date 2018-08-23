@@ -1,20 +1,11 @@
 package com.me.cl.java.array;
 
-import com.me.cl.java.String.EncodeAndDecodeStrings271;
-
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * Created by CL on 7/23/18.
  */
 public class Solution {
     public static void main(String[] args){
-//        System.out.println(new BestTimeSellStockII309().maxProfit(new int[]{7,1,5,3,6,4}));
-        List<String> test= new ArrayList<>();
-        test.add("");
-        EncodeAndDecodeStrings271 e=new EncodeAndDecodeStrings271();
-        e.decode(e.encode(test));
+//        new test1().findStrobogrammatic(2);
     }
 
 
