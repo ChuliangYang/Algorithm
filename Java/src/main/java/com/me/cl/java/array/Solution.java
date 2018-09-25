@@ -5,7 +5,6 @@ package com.me.cl.java.array;
  */
 public class Solution {
     public static void main(String[] args){
-//        new test1().findStrobogrammatic(2);
     }
 
 
